@@ -1,0 +1,33 @@
+* {
+	box-sizing: border-box;
+}
+
+/*  SEARCH BOX  */
+
+form {
+	text-align: center;
+}
+
+input[type="text"] {
+	width: 250px;
+	height: 35px;
+	padding: 8px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+
+.gallery {
+	text-align: center;
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.img-sm {
+	max-width: 16%;
+	margin: 25px 24px 12px;
+}
+
+a {
+	text-decoration: none;
+}
